@@ -1,4 +1,4 @@
-# 📒 CatatanKeuangan
+# 📒 Catatan Keuangan
 
 Aplikasi Android untuk mencatat pemasukan dan pengeluaran harian.  
 Dikembangkan menggunakan **Java**.
@@ -20,11 +20,16 @@ Dikembangkan menggunakan **Java**.
 3. Jalankan aplikasi melalui emulator atau perangkat Android
 
 ## 📱 Tampilan Aplikasi
-![Halaman Register](assets/images/Register.png)
-![Halaman Login](assets/images/Login.png)
-![Halaman Daftar Pemasukan](assets/images/Daftar_Pemasukan.png)
-![Halaman Daftar Pengeluaran](assets/images/Daftar_Pengeluaran.png)
-![Halaman Tambah Pemasukan](assets/images/Tambah_Pemasukan.png)
-![Halaman Tambah Pengeluaran](assets/images/Tambah_Pengeluaran.png)
-![Halaman Edit Pemasukan](assets/images/Edit_Pemasukan.png)
-![Halaman Edit Pengeluaran](assets/images/Edit_Pengeluaran.png)
+<p float="left">
+  <img src="assets/images/Register.png" alt="Halaman Register" width="150"/>
+  <img src="assets/images/Login.png" alt="Halaman Login" width="150"/>
+  <img src="assets/images/Daftar_Pemasukan.png" alt="Halaman Daftar Pemasukan" width="150"/>
+  <img src="assets/images/Daftar_Pengeluaran.png" alt="Halaman Daftar Pengeluaran" width="150"/>
+</p>
+
+<p float="left">
+  <img src="assets/images/Tambah_Pemasukan.png" alt="Halaman Tambah Pemasukan" width="150"/>
+  <img src="assets/images/Tambah_Pengeluaran.png" alt="Halaman Tambah Pengeluaran" width="150"/>
+  <img src="assets/images/Edit_Pemasukan.png" alt="Halaman Edit Pemasukan" width="150"/>
+  <img src="assets/images/Edit_Pengeluaran.png" alt="Halaman Edit Pengeluaran" width="150"/>
+</p>
