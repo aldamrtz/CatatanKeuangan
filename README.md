@@ -8,7 +8,7 @@ Dikembangkan menggunakan **Java**.
 - Menampilkan ringkasan pemasukan dan pengeluaran
 - Antarmuka sederhana, ringan, dan mudah digunakan
 
-## 🛠️ Teknologi
+## ⚙️ Teknologi
 - Java
 - Android Studio
 
@@ -20,16 +20,12 @@ Dikembangkan menggunakan **Java**.
 3. Jalankan aplikasi melalui emulator atau perangkat Android
 
 ## 📱 Tampilan Aplikasi
-<p float="left">
-  <img src="assets/images/Register.png" alt="Halaman Register" width="150"/>
-  <img src="assets/images/Login.png" alt="Halaman Login" width="150"/>
-  <img src="assets/images/Daftar_Pemasukan.png" alt="Halaman Daftar Pemasukan" width="150"/>
-  <img src="assets/images/Daftar_Pengeluaran.png" alt="Halaman Daftar Pengeluaran" width="150"/>
-</p>
 
-<p float="left">
-  <img src="assets/images/Tambah_Pemasukan.png" alt="Halaman Tambah Pemasukan" width="150"/>
-  <img src="assets/images/Tambah_Pengeluaran.png" alt="Halaman Tambah Pengeluaran" width="150"/>
-  <img src="assets/images/Edit_Pemasukan.png" alt="Halaman Edit Pemasukan" width="150"/>
-  <img src="assets/images/Edit_Pengeluaran.png" alt="Halaman Edit Pengeluaran" width="150"/>
-</p>
+| Register | Login | Daftar Pemasukan | Daftar Pengeluaran |
+|----------|-------|-----------------|------------------|
+| <img src="assets/images/Register.png" alt="Register" width="230"/> | <img src="assets/images/Login.png" alt="Login" width="230"/> | <img src="assets/images/Daftar_Pemasukan.png" alt="Daftar Pemasukan" width="230"/> | <img src="assets/images/Daftar_Pengeluaran.png" alt="Daftar Pengeluaran" width="230"/> |
+
+| Tambah Pemasukan | Tambah Pengeluaran | Edit Pemasukan | Edit Pengeluaran |
+|-----------------|------------------|----------------|-----------------|
+| <img src="assets/images/Tambah_Pemasukan.png" alt="Tambah Pemasukan" width="230"/> | <img src="assets/images/Tambah_Pengeluaran.png" alt="Tambah Pengeluaran" width="230"/> | <img src="assets/images/Edit_Pemasukan.png" alt="Edit Pemasukan" width="230"/> | <img src="assets/images/Edit_Pengeluaran.png" alt="Edit Pengeluaran" width="230"/> |
+
